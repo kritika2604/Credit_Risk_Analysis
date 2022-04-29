@@ -87,3 +87,6 @@ This analysis was performed as below:
 ## Summary ##
 It was observed that the accuracy scores are 79% and 93% for Balanced Random Forest Classifier and Easy Ensemble AdaBoost Classifier.
 The precision is not to high for any of the models.
+
+## Recommendation##
+It is recommended to use either of the Ensemble classifiers to predict risk. 
