@@ -1,5 +1,5 @@
 # Credit_Risk_Analysis
-Supervised Machine Learning
+Build and evaluate several machine learning algorithms to predict credit risk.
 
 ## Purpose ##
 
